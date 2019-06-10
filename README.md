@@ -13,7 +13,7 @@ To demo the model, run the `demo.ipynb` jupyter notebook
 - run `python train.py <path-to-save-model>`
 
 ## File Structure:
-
+### A typical top-level directory layout
 .
     ├── efforts                 # Other models we tried
         ├── 

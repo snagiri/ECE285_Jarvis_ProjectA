@@ -1,7 +1,7 @@
 # Implementation of Visual Question Answering
 ## ECE285_Jarvis_ProjectA
 
-This code is an implementation based on Vahid Kazemi and Ali Elqursh's paper Show, Ask, Attend, and Answer: A Strong Baseline For Visual Question Answering using PyTorch. This is part of the final project for the UCSD course Machine Learning for Image Processing in Spring 2019
+This code is an implementation based on Vahid Kazemi and Ali Elqursh's paper [Show, Ask, Attend, and Answer: A Strong Baseline For Visual Question Answering](https://arxiv.org/pdf/1704.03162.pdf) using PyTorch. This is part of the final project for the UCSD course Machine Learning for Image Processing in Spring 2019
 
 Pre-trained model (50epoch.pth) is available [here](https://github.com/snagiri/ECE285_Jarvis_ProjectA/releases/tag/v1.0)
 

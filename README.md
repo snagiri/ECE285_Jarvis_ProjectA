@@ -16,16 +16,16 @@ To demo the model, run the `demo.ipynb` jupyter notebook
 
     .
     ├── efforts                 # Other models we tried
-        ├── 
-        ├──
-        ├──
-        ├──
+    |   ├── 
+    |   ├──
+    |   ├──
+    |   ├──
     ├── resnet                  # Documentation files (alternatively `doc`)
-        ├── config.py           # Parameters for training the model
-        ├── data.py             # 
-        ├──
-        ├──
-        ├──
+    |   ├── config.py           # Parameters for training the model
+    |   ├── data.py             # 
+    |   ├──
+    |   ├──
+    |   ├──
     ├── config.py               # Contains parameters for training the model
     ├── data.py                 # Data loaders for the dataset
     ├── demo.ipynb              # Notebook to run the demo

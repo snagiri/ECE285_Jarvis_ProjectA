@@ -16,10 +16,10 @@ To demo the model, run the `demo.ipynb` jupyter notebook
 
     .
     ├── efforts                             # Other models we tried
-    |   ├── Bottom-up-attention-imp         # Implementation of [this](https://arxiv.org/abs/1708.02711) paper
-    |   ├── san-vqa-tensorflow              # Implementation of [this](https://arxiv.org/pdf/1511.02274.pdf) paper 
-    |   ├── Show_Attend_and_Tell_beam       # Implementation of [this](https://arxiv.org/pdf/1502.03044.pdf) paper 
-    |   ├── show_attend_and_tell            # Implementation of [this](https://arxiv.org/pdf/1502.03044.pdf) paper 
+    |   ├── Bottom-up-attention-imp         # Implementation of https://arxiv.org/abs/1708.02711 paper
+    |   ├── san-vqa-tensorflow              # Implementation of https://arxiv.org/pdf/1511.02274.pdf paper 
+    |   ├── Show_Attend_and_Tell_beam       # Implementation of https://arxiv.org/pdf/1502.03044.pdf paper 
+    |   ├── show_attend_and_tell            # Implementation of https://arxiv.org/pdf/1502.03044.pdf paper 
     ├── resnet                              
     |   ├── convert.py                      # Used to build resnet model
     |   ├── convert2.py                     # Used to build resnet model

@@ -16,15 +16,15 @@ To demo the model, run the `demo.ipynb` jupyter notebook
 
     .
     ├── efforts                             # Other models we tried
-    |   ├── Bottom-up-attention-imp         # Implementation of [this] paper (link)
-    |   ├── san-vqa-tensorflow              # Implementation of [this] paper (https://arxiv.org/pdf/1511.02274.pdf)
-    |   ├── Show_Attend_and_Tell_beam       # Implementation of [this] paper (https://arxiv.org/pdf/1502.03044.pdf)
-    |   ├── show_attend_and_tell            # Implementation of [this] paper (https://arxiv.org/pdf/1502.03044.pdf)
-    ├── resnet                              # Documentation files (alternatively `doc`)
-    |   ├── convert.py                      # Parameters for training the model
-    |   ├── convert2.py                     # 
-    |   ├── resnet.py                       #
-    |   ├── synset.py
+    |   ├── Bottom-up-attention-imp         # Implementation of [this](https://arxiv.org/abs/1708.02711) paper
+    |   ├── san-vqa-tensorflow              # Implementation of [this](https://arxiv.org/pdf/1511.02274.pdf) paper 
+    |   ├── Show_Attend_and_Tell_beam       # Implementation of [this](https://arxiv.org/pdf/1502.03044.pdf) paper 
+    |   ├── show_attend_and_tell            # Implementation of [this](https://arxiv.org/pdf/1502.03044.pdf) paper 
+    ├── resnet                              
+    |   ├── convert.py                      # Used to build resnet model
+    |   ├── convert2.py                     # Used to build resnet model
+    |   ├── resnet.py                       # Used to build resnet model
+    |   ├── synset.py                       # Used to build resnet model
     ├── config.py                           # Contains parameters for training the model
     ├── data.py                             # Data loaders for the dataset
     ├── demo.ipynb                          # Notebook to run the demo

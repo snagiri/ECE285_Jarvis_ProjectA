@@ -11,7 +11,7 @@ Pre-trained model (50epoch.pth) is available [here](https://github.com/snagiri/E
  - Shashank Solomon, s2solomon@eng.ucsd.edu, A53281006
  - Srinithya Nagiri, snagiri@eng.ucsd.edu, A53277642
 
-### Required Packages (python3):
+## Required Packages (python3):
 
 1. torch
 2. h5py

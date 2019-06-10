@@ -8,7 +8,7 @@ Pre-trained model (50epoch.pth) is available [here](https://github.com/snagiri/E
 ## Team members:
  - Chandhini Grandhi, cgrandhi@eng.ucsd.edu, A53272378
  - Gayathri Cuddappa Sudhinder, gcuddappa@eng.ucsd.edu, A53266365
- - Shashank Solomon, s2solomon@eng.ucsd.edu, A53281006
+ - Shashank Solomon, s2solomo@eng.ucsd.edu, A53281006
  - Srinithya Nagiri, snagiri@eng.ucsd.edu, A53277642
 
 ## Required Packages (python3):

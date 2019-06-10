@@ -3,7 +3,7 @@
 
 This code is an implementation based on Vahid Kazemi and Ali Elqursh's paper Show, Ask, Attend, and Answer: A Strong Baseline For Visual Question Answering using PyTorch. This is part of the final project for the UCSD course Machine Learning for Image Processing in Spring 2019
 
-Pre-trained model (50epoch.pth) is available [here]https://github.com/snagiri/ECE285_Jarvis_ProjectA/releases/tag/v1.0
+Pre-trained model (50epoch.pth) is available [here](https://github.com/snagiri/ECE285_Jarvis_ProjectA/releases/tag/v1.0)
 
 ## To run a demo:
 To demo the model, run the `demo.ipynb` jupyter notebook
@@ -18,7 +18,10 @@ To demo the model, run the `demo.ipynb` jupyter notebook
 Root
 |
 +----efforts
-|    (contains other models we tried during our experiments)
+     +----Bottom-up-attention-imp
+     +----san-vqa-tensorflow
+     +----Show_Attend_and_Tell
+     +----show_attend_and_tell_beam_search
 |
 +----resnet
 |    - other folders

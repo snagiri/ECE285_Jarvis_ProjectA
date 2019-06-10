@@ -39,12 +39,12 @@ To demo the model, run the `demo.ipynb` jupyter notebook
     |   ├── Bottom-up-attention-imp          # Implementation of https://arxiv.org/abs/1708.02711 paper
     |   ├── san-vqa-tensorflow               # Implementation of https://arxiv.org/pdf/1511.02274.pdf paper 
     |   ├── Show_Attend_and_Tell_beam        # Implementation of https://arxiv.org/pdf/1502.03044.pdf paper 
-    |   ├── show_attend_and_tell             # Implementation of https://arxiv.org/pdf/1502.03044.pdf paper 
+    |   └── show_attend_and_tell             # Implementation of https://arxiv.org/pdf/1502.03044.pdf paper 
     ├── resnet                              
     |   ├── convert.py                       # Used to build resnet model
     |   ├── convert2.py                      # Used to build resnet model
     |   ├── resnet.py                        # Used to build resnet model
-    |   ├── synset.py                        # Used to build resnet model
+    |   └── synset.py                        # Used to build resnet model
     ├── Visual-Question-Answering_Report.pdf # Project report 
     ├── config.py                            # Contains parameters for training the model
     ├── data.py                              # Data loaders for the dataset

@@ -1,5 +1,5 @@
-# ECE285_Jarvis_ProjectA
 # Implementation of Visual Question Answering
+## ECE285_Jarvis_ProjectA
 
 This code is an implementation based on Vahid Kazemi and Ali Elqursh's paper Show, Ask, Attend, and Answer: A Strong Baseline For Visual Question Answering using PyTorch. This is part of the final project for the UCSD course Machine Learning for Image Processing in Spring 2019
 
@@ -13,8 +13,8 @@ To demo the model, run the `demo.ipynb` jupyter notebook
 - run `python train.py <path-to-save-model>`
 
 ## File Structure:
-### A typical top-level directory layout
-.
+
+    .
     ├── efforts                 # Other models we tried
         ├── 
         ├──

@@ -15,29 +15,28 @@ To demo the model, run the `demo.ipynb` jupyter notebook
 ## File Structure:
 
     .
-    ├── efforts                 # Other models we tried
-    |   ├── 
-    |   ├──
-    |   ├──
-    |   ├──
-    ├── resnet                  # Documentation files (alternatively `doc`)
-    |   ├── config.py           # Parameters for training the model
-    |   ├── data.py             # 
-    |   ├──
-    |   ├──
-    |   ├──
-    ├── config.py               # Contains parameters for training the model
-    ├── data.py                 # Data loaders for the dataset
-    ├── demo.ipynb              # Notebook to run the demo
-    ├── dogs.jpg                # Image used in demo
-    ├── model.py                # File to build the neural net in
-    ├── preprocess-images.py    # Extract features from images
-    ├── preprocess-vocab.py     # Do word embedding
-    ├── tennis.jpg              # Image used in demo
-    ├── test_img.jpg            # Image used in demo
-    ├── train.py                # To train the model
-    ├── utils.py                # Contains some utility functions
-    ├── vocab.json              # Vocabulary file created during training
+    ├── efforts                             # Other models we tried
+    |   ├── Bottom-up-attention-imp         # Implementation of [this] paper (link)
+    |   ├── san-vqa-tensorflow              # Implementation of [this] paper (https://arxiv.org/pdf/1511.02274.pdf)
+    |   ├── Show_Attend_and_Tell_beam       # Implementation of [this] paper (https://arxiv.org/pdf/1502.03044.pdf)
+    |   ├── show_attend_and_tell            # Implementation of [this] paper (https://arxiv.org/pdf/1502.03044.pdf)
+    ├── resnet                              # Documentation files (alternatively `doc`)
+    |   ├── convert.py                      # Parameters for training the model
+    |   ├── convert2.py                     # 
+    |   ├── resnet.py                       #
+    |   ├── synset.py
+    ├── config.py                           # Contains parameters for training the model
+    ├── data.py                             # Data loaders for the dataset
+    ├── demo.ipynb                          # Notebook to run the demo
+    ├── dogs.jpg                            # Image used in demo
+    ├── model.py                            # File to build the neural net in
+    ├── preprocess-images.py                # Extract features from images
+    ├── preprocess-vocab.py                 # Do word embedding
+    ├── tennis.jpg                          # Image used in demo
+    ├── test_img.jpg                        # Image used in demo
+    ├── train.py                            # To train the model
+    ├── utils.py                            # Contains some utility functions
+    ├── vocab.json                          # Vocabulary file created during training
     └── README.md
 
 ### Required Packages:

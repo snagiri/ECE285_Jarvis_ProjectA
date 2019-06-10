@@ -6,10 +6,10 @@ This code is an implementation based on Vahid Kazemi and Ali Elqursh's paper [Sh
 Pre-trained model (50epoch.pth) is available [here](https://github.com/snagiri/ECE285_Jarvis_ProjectA/releases/tag/v1.0)
 
 ## Team members:
- - Chandhini Grandhi, [cgrandhi@eng.ucsd.edu], A53272378
- - Gayathri Cuddappa Sudhinder, [gcuddappa@eng.ucsd.edu], A53266365
- - Shashank Solomon, [s2solomon@eng.ucsd.edu], A53281006
- - Srinithya Nagiri, [snagiri@eng.ucsd.edu], A53277642
+ - Chandhini Grandhi, cgrandhi@eng.ucsd.edu, A53272378
+ - Gayathri Cuddappa Sudhinder, gcuddappa@eng.ucsd.edu, A53266365
+ - Shashank Solomon, s2solomon@eng.ucsd.edu, A53281006
+ - Srinithya Nagiri, snagiri@eng.ucsd.edu, A53277642
 
 ### Required Packages (python3):
 

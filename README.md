@@ -14,19 +14,31 @@ To demo the model, run the `demo.ipynb` jupyter notebook
 
 ## File Structure:
 
-```
-Root
-|
-+----efforts
-     +----Bottom-up-attention-imp
-     +----san-vqa-tensorflow
-     +----Show_Attend_and_Tell
-     +----show_attend_and_tell_beam_search
-|
-+----resnet
-|    - other folders
-
-```
+.
+    ├── efforts                 # Other models we tried
+        ├── 
+        ├──
+        ├──
+        ├──
+    ├── resnet                  # Documentation files (alternatively `doc`)
+        ├── config.py           # Parameters for training the model
+        ├── data.py             # 
+        ├──
+        ├──
+        ├──
+    ├── config.py               # Contains parameters for training the model
+    ├── data.py                 # Data loaders for the dataset
+    ├── demo.ipynb              # Notebook to run the demo
+    ├── dogs.jpg                # Image used in demo
+    ├── model.py                # File to build the neural net in
+    ├── preprocess-images.py    # Extract features from images
+    ├── preprocess-vocab.py     # Do word embedding
+    ├── tennis.jpg              # Image used in demo
+    ├── test_img.jpg            # Image used in demo
+    ├── train.py                # To train the model
+    ├── utils.py                # Contains some utility functions
+    ├── vocab.json              # Vocabulary file created during training
+    └── README.md
 
 ### Required Packages:
 
